@@ -11,3 +11,7 @@ Skills I use daily for code work.
 - **[to-issues](./to-issues/SKILL.md)** — Break any plan, spec, or PRD into independently-grabbable GitHub issues using vertical slices.
 - **[to-prd](./to-prd/SKILL.md)** — Turn the current conversation context into a PRD and submit it as a GitHub issue.
 - **[zoom-out](./zoom-out/SKILL.md)** — Tell the agent to zoom out and give broader context or a higher-level perspective on an unfamiliar section of code.
+- **[landing-page-guide-v2](./landing-page-guide-v2/SKILL.md)** — Create distinctive, high-converting landing pages (Next.js/ShadCN, 11-element conversion framework, anti-template aesthetics).
+- **[frontend-design](./frontend-design/SKILL.md)** — Frontend design and UI/UX development tools (Anthropic official).
+- **[web-artifacts-builder](./web-artifacts-builder/SKILL.md)** — Build React/Tailwind HTML artifacts (Anthropic official).
+- **[brand-guidelines](./brand-guidelines/SKILL.md)** — Brand identity guidelines for consistent design (Anthropic official).

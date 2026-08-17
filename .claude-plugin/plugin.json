@@ -12,6 +12,10 @@
     "./skills/engineering/zoom-out",
     "./skills/productivity/caveman",
     "./skills/productivity/grill-me",
-    "./skills/productivity/write-a-skill"
+    "./skills/productivity/write-a-skill",
+    "./skills/engineering/landing-page-guide-v2",
+    "./skills/engineering/frontend-design",
+    "./skills/engineering/web-artifacts-builder",
+    "./skills/engineering/brand-guidelines"
   ]
 }
